@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "KoiProducer",
+"dataUrl": "evol_webgl.data.unityweb",
+"asmCodeUrl": "evol_webgl.asm.code.unityweb",
+"asmMemoryUrl": "evol_webgl.asm.memory.unityweb",
+"asmFrameworkUrl": "evol_webgl.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
